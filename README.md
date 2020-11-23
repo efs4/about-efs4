@@ -34,7 +34,7 @@
 
 # Class Meetings
 
-  ### [c01 ~ What is a program? (SLO 3)](../../../c01-/)  
+  ### [c01 ~ What is a program? (SLO 3)](../../../c01-efs4/)  
   
   ### [c02 ~ ](../../../c02-/)
   
